@@ -22,6 +22,8 @@
 - 📧 Gmail: [asshikrani66@gmail.com](mailto:asshikrani66@gmail.com)  
 - 💼 LinkedIn: [Ahmad Siddique](https://www.linkedin.com/in/ahmad-siddique-2bb73430a)  
 - 🌐 Facebook: [Ahmad Siddique](https://web.facebook.com/profile.php?id=100073138375756)
+- 🐦 Twitter: [@ShikraniS41255](https://x.com/ShikraniS41255?t=16IpjxIhCbiGwcmVQ8E-Zg&s=09)
+
 
 ---
 
