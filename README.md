@@ -26,8 +26,7 @@
 ---
 
 ## Profile Picture  
-<img src="https://scontent-sin2-1.xx.fbcdn.net/v/t39.30808-6/330533386_773255177129433_5488309674297522505_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uK1AMLGdL_sQ7kNvgF-B_8g&_nc_zt=23&_nc_ht=scontent-sin2-1.xx&_nc_gid=AEGaujhV9tDUEyJa5n6vGAG&oh=00_AYCt6udx7oox0S84nQkLVm6mYXi7zKAlnpN9nvTOCuLgXQ&oe=679BE33A" alt="Ahmad Siddique" width="250px" height="auto">
+<img src="https://scontent-sin2-1.xx.fbcdn.net/v/t39.30808-6/330533386_773255177129433_5488309674297522505_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uK1AMLGdL_sQ7kNvgF-B_8g&_nc_zt=23&_nc_ht=scontent-sin2-1.xx&_nc_gid=AEGaujhV9tDUEyJa5n6vGAG&oh=00_AYCt6udx7oox0S84nQkLVm6mYXi7zKAlnpN9nvTOCuLgXQ&oe=679BE33A" alt="Ahmad Siddique" width="250px" height="540">
 
 ---
 
-Feel free to suggest any additional changes or let me know if this looks good to finalize for your GitHub profile.
