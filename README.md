@@ -6,7 +6,7 @@
 ## About Me
 - 🌱 I’m currently a **1st-year ICS student** based in Pakistan.
 - 🖥️ My hobby is **exploring the computer field** and building tech skills.
-- 🎯 **Goal:** To pursue higher education in a European country through a fully-funded scholarship.
+- 🎯 **Goal:** Being expert in compter science and to pursue higher education in a European country through a fully-funded scholarship.
 - 💡 Fun Fact: Computer science isn't about computers—it’s about problem-solving!
 
 ---
