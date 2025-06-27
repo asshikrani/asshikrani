@@ -12,7 +12,7 @@
 ---
 
 ## Skills
-- **Programming Languages:** Python, C++, HTML, CSS, SQL
+- **Programming Languages:** Python, C++, HTML, CSS, SQL, JavaScript
 - **Tools & Technologies:** Git, GitHub, Tailwind CSS, Pandas, NumPy, Matplotlib, Seaborn
 - **Interests:** Machine Learning, Frontend Development
 
